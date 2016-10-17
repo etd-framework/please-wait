@@ -1,0 +1,12 @@
+{
+  "name": "etdsolutions/pleasewait",
+  "description": "Shim repository for PleaseWait.js",
+  "homepage": "http://pathgather.github.io/please-wait/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pathgather",
+      "email": "tech@pathgather.com"
+    }
+  ]
+}
